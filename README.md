@@ -62,35 +62,31 @@ email      → <a href="mailto:adityanarke.work@gmail.com">[adityanarke.work@gma
 
 
 ---
-
 ## ▸ telemetry
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=A-R-Narke&label=profile+views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=A-R-Narke&label=profile+views&color=0e75b6&style=flat&v=1" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=A-R-Narke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=A-R-Narke&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=A-R-Narke&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=A-R-Narke&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-R-Narke&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-R-Narke&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 </p>
-
-
 
 ---
 
 ## ▸ activity.stream
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-R-Narke&theme=github-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-R-Narke&theme=github-dark&cache_seconds=1800&v=1" />
 </p>
-
 ---
 
 
