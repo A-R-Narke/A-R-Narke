@@ -17,7 +17,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1&repeat=false&color=BD93F9&width=700&lines=Aditya+Narke" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1&repeat=false&color=4AF626&width=700&lines=aditya@github:~$+role" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1&repeat=false&color=BD93F9&width=700&lines=Full-Stack+Developer+|+AI+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1&repeat=false&color=BD93F9&width=700&lines=CS+Student" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1&repeat=false&color=4AF626&width=700&lines=aditya@github:~$+philosophy" />
 
